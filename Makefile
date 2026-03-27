@@ -38,3 +38,55 @@ clean:
 	rm -f cms
 	# Inform the user
 	@echo "Clean complete! Executable removed."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# -----------------------------
+# THE END
+# -----------------------------
